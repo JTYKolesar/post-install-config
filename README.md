@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system "osTicket".<br />
+This demonstration outlines the post-install configuration of the open-source help desk ticketing system "osTicket".<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h3>&#9312; Prerequisites and Installation</h3>
 
 _This tutorial assumes you have already established a virtual machine with the prerequisite files installed for working osTicket._ </br>
-_Credentials and configurations that will be used in this tutorial can be found in the ["Prerequisites and Installation"](https://github.com/JTYKolesar/osticket-prereqs) tutorial._ </br>
+_Credentials and configurations that will be used in this tutorial can be found in the ["Prerequisites and Installation"](https://github.com/JTYKolesar/osticket-prereqs) demonstration._ </br>
 _* NOTE: The osTicket system might randomly logout your account, so just login again if that happens._
 <hr>
 
