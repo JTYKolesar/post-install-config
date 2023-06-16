@@ -66,8 +66,16 @@ _We're going to access the "Admin Panel" and create Roles, Departments, and Team
 <img src="https://i.imgur.com/LjS4ErM.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+_Now we've created a Supreme Admin role with all permissions granted. Next, we'll create a Department._
+- Currently in the Agents tab, under Roles category, click on "Departments" category.
+<p>
+<img src="https://i.imgur.com/ebjjHRe.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
-
-
+- Create a Department name (this example uses **System Administrators**).
+- Skip everything else for now and click "Add New Department"
+<p>
+<img src="https://i.imgur.com/MOYrOCe.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 <h1>(ﾉ^ヮ^)ﾉ*:・ﾟ✧ COMPLETE! ✧ﾟ・:*╰(^ヮ^╰)</h1>
