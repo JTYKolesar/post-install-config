@@ -29,7 +29,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h3>&#9312; Prerequisites and Installation</h3>
 
 _This tutorial assumes you have already established a virtual machine with the prerequisite files installed for working osTicket._ </br>
-_Credentials and configurations that will be used in this tutorial can be found in the ["Prerequisites and Installation"](https://github.com/JTYKolesar/osticket-prereqs) tutorial._
+_Credentials and configurations that will be used in this tutorial can be found in the ["Prerequisites and Installation"](https://github.com/JTYKolesar/osticket-prereqs) tutorial._ </br>
+_* NOTE: The osTicket system might randomly logout your account, so just login again if that happens._
 <hr>
 
 <h3>&#9313; Configuration: Admin Panel</h3>
@@ -40,7 +41,8 @@ _Credentials and configurations that will be used in this tutorial can be found 
 <img src="https://i.imgur.com/ud1VucL.jpg" height="100%" width="=100%" alt="Disk Sanitization Steps"/>
 </p>
 
-- 
+_We're going to access the "Admin Panel" and create Roles, Departments, and Teams:_
+- Currently at the Agent Panel, click on "Admin Panel" at the top-right of the window.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
