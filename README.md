@@ -62,9 +62,6 @@ _We're going to access the "Admin Panel" and create Roles, Departments, and Team
 - In the Permissions tab, under the Tickets category, checkmark ALL boxes.
   - Go through both Tasks and Knowledgebase categories and checkmark ALL boxes as well.
 - Once done, click "Add Role".
-
-_"Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles can be created and assigned to Agents with access to various departments. ~ osTicket Documentation"_
-
 <p>
 <img src="https://i.imgur.com/iJGy3L6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -95,24 +92,38 @@ _Next, we'll move onto creating a Team._
 <img src="https://i.imgur.com/JyzMjkp.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-- 
+_With roles, departments, and teams now setup, we'll need to add and assign agents to those categories:_
+- Currently in the Agents tab, click "Agents" category.
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zYQu22H.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-- 
+- Create the required credentials for this user that are in bold:
+  - First Name (this example uses **Jane**).
+  - Last Name (this example uses **Doe**).
+  - Email Address (this example uses **Jone.Doe@osTicket.com**).
+  - Username (this example uses **jane.doe**).
+- Click "Set Password" and a windows prompt will appear:
+  -   Uncheck "Send the agent a password reset email".
+  -   Create a password for this user.
+  -   Uncheck "Require password change at next login".
+  -   Click "Set".
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LRAyfYp.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-- 
+- Click on the "Access" tab:
+  - Assign this user the Department that we created (this example uses **System Administrators**).
+  - Assign this user the Role that we created (this example uses **Supreme Admin**).
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UepRHnr.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-- 
+- Click on the "Teams" tab:
+  -  Assign this user the Team that we created (this example uses **Level II Support**).
+-  Once done, click "Create".
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WeM5SEd.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 - 
