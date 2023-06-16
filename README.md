@@ -38,44 +38,45 @@ _* NOTE: The osTicket system might randomly logout your account, so just login a
 - On the web browser (Microsoft Edge), go to the Help Desk Login Page and sign into your osTicket Help Desk credentials (this example uses username **ostuser / ostuser@email.com**).
   - Help Desk Login Page -- http://localhost/osTicket/scp/login.php
 <p>
-<img src="https://i.imgur.com/ud1VucL.jpg" height="100%" width="=100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2NAyZo5.jpg" height="100%" width="=100%" alt="Disk Sanitization Steps"/>
 </p>
 
 _We're going to access the "Admin Panel" and create Roles, Departments, and Teams:_
 - Currently at the Agent Panel, click on "Admin Panel" at the top-right of the window.
 <p>
-<img src="https://i.imgur.com/3lWvRyw.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dByQbR1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 - Click on the "Agents" tab > "Roles" > "Add New Role".
 <p>
-<img src="https://i.imgur.com/CmDQ11k.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mjTZZ5h.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 - In the Definition tab, type any Role name of your choice (this example uses **Supreme Admin**).
   - _This role will be given all permissions._
 - Then, click on the Permissions tab.
 <p>
-<img src="https://i.imgur.com/FZ6uvU9.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/U8vxJEe.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 - In the Permissions tab, under the Tickets category, checkmark ALL boxes.
   - Go through both Tasks and Knowledgebase categories and checkmark ALL boxes as well.
 - Once done, click "Add Role".
 <p>
-<img src="https://i.imgur.com/LjS4ErM.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iJGy3L6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 _Now we've created a Supreme Admin role with all permissions granted. Next, we'll create a Department._
 - Currently in the Agents tab, under Roles category, click on "Departments" category.
+- Click "Add New Department".
 <p>
-<img src="https://i.imgur.com/ebjjHRe.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vdafrXs.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-- Create a Department name (this example uses **System Administrators**).
-- Skip everything else for now and click "Add New Department"
+- Create a Department name of your choice (this example uses **System Administrators**).
+- Skip everything else for now and click "Create Dept".
 <p>
-<img src="https://i.imgur.com/MOYrOCe.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Uoji0y5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h1>(ﾉ^ヮ^)ﾉ*:・ﾟ✧ COMPLETE! ✧ﾟ・:*╰(^ヮ^╰)</h1>
