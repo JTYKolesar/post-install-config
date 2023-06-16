@@ -42,7 +42,7 @@ _* NOTE: The osTicket system might randomly logout your account, so just login a
 </p>
 
 _We're going to access the "Admin Panel" and create Roles, Departments, and Teams:_
-- Currently at the Agent Panel, click on "Admin Panel" at the top-right of the window.
+- Currently at the Agent Panel, click on "Admin Panel" at the top-right of the page.
 <p>
 <img src="https://i.imgur.com/dByQbR1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -70,7 +70,7 @@ _"Roles are the permissions granted to Agents per Department that they have acce
 </p>
 
 _Now we've created a Supreme Admin role with all permissions granted. Next, we'll create a Department._
-- Currently in the Agents tab, under Roles category, click on "Departments" category.
+- Currently in the Agents tab, click on the "Departments" category.
 - Click "Add New Department".
 <p>
 <img src="https://i.imgur.com/vdafrXs.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -82,9 +82,11 @@ _Now we've created a Supreme Admin role with all permissions granted. Next, we'l
 <img src="https://i.imgur.com/Uoji0y5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-- 
+_Next, we'll move onto creating a Team._
+- Currently in the Agents tab, click on the "Teams" category.
+- Click "Add New Team".
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jmrWFse.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 - 
