@@ -89,9 +89,10 @@ _Next, we'll move onto creating a Team._
 <img src="https://i.imgur.com/jmrWFse.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-- 
+- Create a Team name of your choice (this example uses **Level II Support**).
+- Click "Create Team".
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JyzMjkp.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 - 
