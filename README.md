@@ -51,6 +51,7 @@ _* NOTE: The osTicket system might randomly logout your account, so just login a
 <img src="https://i.imgur.com/mjTZZ5h.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+_"Roles are the permissions granted to Agents per Department that they have access to."_
 - In the Definition tab, type any Role name of your choice (this example uses **Supreme Admin**).
   - _This role will be given all permissions._
 - Then, click on the Permissions tab.
@@ -78,7 +79,8 @@ _Now we've created a Supreme Admin role with all permissions granted. Next, we'l
 <img src="https://i.imgur.com/Uoji0y5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-_Next, we'll move onto creating a Team._
+_Next, we'll move onto creating a Team._ <br>
+_"Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter."_
 - Currently in the Agents tab, click on the "Teams" category.
 - Click "Add New Team".
 <p align=center>
@@ -91,7 +93,6 @@ _Next, we'll move onto creating a Team._
 <img src="https://i.imgur.com/JyzMjkp.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-_With roles, departments, and teams now setup, we'll need to add and assign agents to those categories:_
 - Currently in the Agents tab, click "Agents" category.
 <p align=center>
 <img src="https://i.imgur.com/zYQu22H.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -100,7 +101,7 @@ _With roles, departments, and teams now setup, we'll need to add and assign agen
 - Create the required credentials for this user that are in bold:
   - First Name (this example uses **Jane**).
   - Last Name (this example uses **Doe**).
-  - Email Address (this example uses **Jone.Doe@osTicket.com**).
+  - Email Address (this example uses **jane.doe@osTicket.com**).
   - Username (this example uses **jane.doe**).
 - Click "Set Password" and a windows prompt will appear:
   -   Uncheck "Send the agent a password reset email".
@@ -132,7 +133,7 @@ _This example creates Agent **"John Doe"** | Department: **"Level I Support"** |
 </p>
 <hr>
 
-<h3>&#9314; Agent Panel - Users & Creating Tickets</h3>
+<h3>&#9314; Agent Panel - Creating Users</h3>
 
 - Click on "Agent Panel" on the top-right of the page.
 <p align=center>
@@ -148,39 +149,60 @@ _This example creates Agent **"John Doe"** | Department: **"Level I Support"** |
 <img src="https://i.imgur.com/vn9DP8b.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-_Create another user of your choice (this example uses **ken@osticket.com / Ken Ken**_
+_Create another user of your choice (this example uses **ken@osticket.com / Ken Ken**)_
 <p align=center>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/H6Cgj0A.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<hr>
+
+<h3>&#9315; Admin Panel - Configuring SLA</h3>
+
+_"SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed."_
+- Return to the "Admin Panel".
+  - Navigate to "Manage" tab > "SLA".
+- Click "Add New SLA Plan".
+<p align=center>
+<img src="https://i.imgur.com/KSONgtH.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-- 
+- Create the following plans:
+  - **SEV-A**
+    - Grace Period: **1 hour** (_Amount, in hours, before tickets with this SLA will become overdue if not closed in allotted time._)
+    - Schedule: **24/7** (_Accounted for all days of the week, even on non-business days_)
+  
+  - **SEV-B**
+    - Grace Period: **4 hours**
+    - Schedule: **24/7**
+
+  - **SEV-C**
+    - Grace Period: **8 hours**
+    - Schedule: **Monday - Friday 8am - 5pm with U.S. Holidays**
+- Click "Add Plan" for each.
 <p align=center>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/biqgLPr.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vLW1yZs.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<hr>
+
+<h3>&#9316; Configure Help Topics</h3>
+
+_Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket._
+- Currently in the Admin Pangel, navigate to "Manage" tab > "Help Topics".
+- Click "Add New Help Topic".
+<p align=center>
+<img src="https://i.imgur.com/cYxBbIu.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-- 
+- Create Help Topics with the following names:
+  - **Business Critical Outage**
+  - **Personal Computer Issues**
+  - **Equipment Request**
+  - **Password Reset**
+- "Internal Notes" can be written down for personal use, but not necessary.
+- After that, click "Add Topic".
 <p align=center>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-- 
-<p align=center>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-- 
-<p align=center>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-- 
-<p align=center>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-- 
-<p align=center>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8u6QJRG.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wVf8qYz.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h1>(ﾉ^ヮ^)ﾉ*:・ﾟ✧ COMPLETE! ✧ﾟ・:*╰(^ヮ^╰)</h1>
