@@ -204,5 +204,10 @@ _Help Topics will help streamline your end-user’s help desk experience to ensu
 <img src="https://i.imgur.com/8u6QJRG.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/wVf8qYz.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<hr>
 
 <h1>(ﾉ^ヮ^)ﾉ*:・ﾟ✧ COMPLETE! ✧ﾟ・:*╰(^ヮ^╰)</h1>
+
+<h3>DELETE **EVERYTHING!** IN AZURE TO SAVE CREDITS!</h3>
+
+_If you don't know how to, click <a href="https://github.com/JTYKolesar/azure-start/blob/main/README.md#bonus-delete-all-resources-in-azure">HERE</a>_
