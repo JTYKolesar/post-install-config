@@ -134,17 +134,21 @@ _This example creates Agent **"John Doe"** | Department: **"Level I Support"** |
 
 <h3>&#9314; Agent Panel - Users & Creating Tickets</h3>
 
-- 
+- Click on "Agent Panel" on the top-right of the page.
 <p align=center>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/A6lRMQN.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-- 
+- Click on the "Users" tab.
+- Click on "Add User".
+- Create an Email Address and Full Name for this user (this example uses **karen@osticket.com / Karen Karen**).
+- Click "Add User".
 <p align=center>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jTIRdhl.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vn9DP8b.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-- 
+_Create another user of your choice (this example uses **ken@osticket.com / Ken Ken**_
 <p align=center>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
