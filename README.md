@@ -43,16 +43,30 @@ _* NOTE: The osTicket system might randomly logout your account, so just login a
 
 _We're going to access the "Admin Panel" and create Roles, Departments, and Teams:_
 - Currently at the Agent Panel, click on "Admin Panel" at the top-right of the window.
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3lWvRyw.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+- Click on the "Agents" tab > "Roles" > "Add New Role".
+<p>
+<img src="https://i.imgur.com/CmDQ11k.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+- In the Definition tab, type any Role name of your choice (this example uses **Supreme Admin**).
+  - _This role will be given all permissions._
+- Then, click on the Permissions tab.
+<p>
+<img src="https://i.imgur.com/FZ6uvU9.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+- In the Permissions tab, under the Tickets category, checkmark ALL boxes.
+  - Go through both Tasks and Knowledgebase categories and checkmark ALL boxes as well.
+- Once done, click "Add Role".
+<p>
+<img src="https://i.imgur.com/LjS4ErM.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+
+
