@@ -207,9 +207,10 @@ _Help Topics will help streamline your end-user’s help desk experience to ensu
 </p>
 <hr>
 
-
 <h1><p align=center>(ﾉ^ヮ^)ﾉ*:・ﾟ✧ COMPLETE! ✧ﾟ・:*╰(^ヮ^╰)</p></h1>
 
-<h3>DELETE **EVERYTHING!** IN AZURE TO SAVE CREDITS!</h3>
+<h2><p align=center>Next Demonstration:<br><a href="https://github.com/JTYKolesar/ticket-lifecycle">Ticket Lifecycle Examples</a></p></h2>
 
-_If you don't know how to, click <a href="https://github.com/JTYKolesar/azure-start/blob/main/README.md#bonus-delete-all-resources-in-azure">HERE</a>_
+<p align=right>DELETE **EVERYTHING!** IN AZURE TO SAVE CREDITS!<br>
+If you don't know how to, click <a href="https://github.com/JTYKolesar/azure-start/blob/main/README.md#bonus-delete-all-resources-in-azure">HERE</a>
+</p>
