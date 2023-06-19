@@ -114,8 +114,10 @@ _"Teams allow you to pull Agents from different Departments and organize them to
 - Click on the "Access" tab:
   - Assign this user the Department that we created (this example uses **System Administrators**).
   - Assign this user the Role that we created (this example uses **Supreme Admin**).
+- Under Extended Access, assign this user the "Support" department with the "Supreme Admin" role.
+- Click "Save Changes".
 <p align=center>
-<img src="https://i.imgur.com/UepRHnr.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NyCTS3W.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 - Click on the "Teams" tab:
