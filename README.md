@@ -28,9 +28,9 @@ This demonstration outlines the post-install configuration of the open-source he
 
 <h3>&#9312; Prerequisites and Installation</h3>
 
-_This tutorial assumes you have already established a virtual machine with the prerequisite files installed for working osTicket._ </br>
-_Credentials and configurations that will be used in this tutorial can be found in the ["Prerequisites and Installation"](https://github.com/JTYKolesar/osticket-prereqs) demonstration._ </br>
-_* NOTE: The osTicket system might randomly logout your account, so just login again if that happens._
+_This demonstration assumes a virtual machine is established with the prerequisite files are installed for working osTicket._ </br>
+_Credentials and configurations that will be used in this demonstration can be found in the ["Prerequisites and Installation"](https://github.com/JTYKolesar/osticket-prereqs) demonstration._ </br>
+_* NOTE: The osTicket system might randomly logout the account, so just login again if that happens._
 <hr>
 
 <h3>&#9313; Admin Panel - Roles, Departments, Teams, & Agents</h3>
