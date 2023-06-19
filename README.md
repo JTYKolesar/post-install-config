@@ -28,7 +28,7 @@ This demonstration outlines the post-install configuration of the open-source he
 
 <h3>&#9312; Prerequisites and Installation</h3>
 
-_This demonstration assumes a virtual machine is established with the prerequisite files are installed for working osTicket._ </br>
+_This demonstration assumes a virtual machine is established with the prerequisite files installed for working osTicket._ </br>
 _Credentials and configurations that will be used in this demonstration can be found in ["Prerequisites and Installation"](https://github.com/JTYKolesar/osticket-prereqs)._ </br>
 <hr>
 
