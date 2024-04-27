@@ -191,7 +191,7 @@ _"SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose 
 <h3>&#9316; Configure Help Topics</h3>
 
 _Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket._
-- Currently in the Admin Pangel, navigate to "Manage" tab > "Help Topics".
+- Currently in the Admin Panel, navigate to "Manage" tab > "Help Topics".
 - Click "Add New Help Topic".
 <p align=center>
 <img src="https://i.imgur.com/cYxBbIu.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
